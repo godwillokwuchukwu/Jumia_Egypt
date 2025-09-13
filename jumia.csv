@@ -1,0 +1,702 @@
+id,product_name,reviews_count,Price_EGP,rating_type,avg_rating,category
+1,Dice - Bundle Of (6) Boxers For Men & Boys,46.0,329.99,verified ratings,3.9,Fashion
+2,Care & More Soft Cream With Glycerin - Strawbery - 75 ML,515.0,29.0,verified ratings,4.2,Health & Beauty
+3,"NIVEA Antiperspirant Spray for Women, 48h Protection, Black & White Invisible Silky Smooth Shaving, 150ml",554.0,103.75,verified ratings,4.4,Health & Beauty
+4,"NIVEA MEN MEN Antiperspirant Spray for Men, 48h Protection, Black & White Invisible Original, 150ml",1066.0,95.0,verified ratings,4.4,Health & Beauty
+5,"NIVEA MEN Antiperspirant Spray for Men, 48h Protection, DEEP Black Carbon Antibacterial, Woody Scent, 150ml",1119.0,103.75,verified ratings,4.5,Health & Beauty
+6,Skyline 32-22A - 32-inch HD LED TV - Limited,189.0,4249.0,verified ratings,3.7,Television & Audio
+7,L'Oreal Paris Elvive Hyaluron Pure Rehydrating Conditioner for Oily Hair 200ml,13.0,94.0,verified ratings,4.2,Health & Beauty
+8,Listerine TOTAL CARE TARTAR PROTECT Mouthwash - 250 Ml,1297.0,79.0,verified ratings,4.3,Health & Beauty
+9,Axe Body Spray for Men Dark Temptation 150ML,873.0,124.0,verified ratings,4.4,Health & Beauty
+10,"NIVEA Antiperspirant Spray for Women, 48h Protection, Black & White Invisible Original, 150ml",526.0,103.75,verified ratings,4.4,Health & Beauty
+11,Women Beach Sandals,28.0,99.0,verified ratings,3.4,Fashion
+12,Garnier Garnier Skin Active Fast Bright Face Wash With Vitamin C And Lemon - 100ml,1590.0,75.0,verified ratings,4.3,Health & Beauty
+13,Garnier Ultra Doux Repairing Papaya 3-In-1 Hair Food For Damaged Hair - 390Ml + Free Orange Scrunchy,50.0,286.0,verified ratings,4.2,Health & Beauty
+14,"Oraimo Freepods Lite OTW-330 ENC Noise Cancellation, Up to 8HRs, IPX4 Water Resistance - Black",13.0,549.0,verified ratings,4.4,Phones & Tablets
+15,L'oreal Elvive Hyaluron Moisture 72H Moisture Filling Shampoo - 600ml,663.0,185.0,verified ratings,4.2,Health & Beauty
+16,Axe Body Spray for Men Leather & Cookies 150ML,512.0,124.0,verified ratings,4.3,Health & Beauty
+17,Feba Dish Cleaner For Automatic Dishwashing Salt - 1 kg,391.0,64.0,verified ratings,4.4,Appliances
+18,Care & More Soft Cream With Glycerin Mixed berries - 75 ML,322.0,34.0,verified ratings,4.3,Health & Beauty
+19,"NIVEA MEN Antiperspirant Spray for Men, 48h Protection, Silver Protect Antibacterial, 150ml",677.0,103.75,verified ratings,4.4,Health & Beauty
+20,Oxi Liquid Gel Detergent - White - 900 G,62.0,69.0,verified ratings,4.2,Supermarket
+21,L'Oreal Paris Elvive Hyaluron Pure Purifying Shampoo for Oily Hair 200ML,12.0,91.0,verified ratings,4.3,Health & Beauty
+22,Cottonil Bundle OF (5) - Men Boxer Solid,695.0,299.0,verified ratings,4.2,Fashion
+23,ADIDAS DBF11 Adilette Aqua Swim Sandals/Slippers - Ftwr White,177.0,974.35,verified ratings,4.5,Fashion
+24,Maybelline Maybelline New York Lash Sensational Sky High Mascara,829.0,585.0,verified ratings,5.0,Health & Beauty
+25,Oxi Powder Det lavender - 1 Kg,82.0,61.0,verified ratings,4.5,Health & Beauty
+26,L'Oreal Paris Hyaluron Expert 1.5% Hyaluronic Acid Serum - 30ml,3341.0,415.0,verified ratings,4.4,Health & Beauty
+27,Axe Body Spray for Men Black 150ML,1284.0,112.0,verified ratings,4.3,Health & Beauty
+28,ADIDAS EAY85 Classic Foundation Backpack- Green,34.0,876.85,verified ratings,4.5,Health & Beauty
+29,NIVEA MEN Cool Kick Antiperspirant Spray for Men - 150ml,444.0,95.0,verified ratings,4.4,Health & Beauty
+30,Johnson's Face & Body Intense Cream - Dry to Very Dry Skin  200ml,117.0,87.0,verified ratings,4.5,Health & Beauty
+31,Vebix Active Deodorant Roll-On  For Men  50ml,168.0,37.0,verified ratings,3.9,Health & Beauty
+32,"NIVEA Antiperspirant Spray for Women, 48h Protection, Pearl & Beauty, 150ml",1098.0,95.0,verified ratings,4.4,Health & Beauty
+33,Feba Rinse For Automatic Dishwashing - 285ml,395.0,70.0,verified ratings,4.2,Appliances
+34,DRS Derma Roller Microneedling - 540 Pins - All Size,62.0,99.02,verified ratings,4.1,Other Category
+35,Fogg Perfume Spray - Dynamic - 120 Ml,165.0,89.0,verified ratings,4.2,Health & Beauty
+36,Frida Glass 600 ml,67.0,26.0,verified ratings,4.3,Other Category
+37,Vaseline Jelly Original - 50ml,206.0,38.15,verified ratings,4.4,Other Category
+38,L'Oreal Paris Hyaluron Expert Repluming Moisturizing day Cream - 50ml,3945.0,315.0,verified ratings,4.3,Health & Beauty
+39,Sanita Fam Relax Feminine Maternity Napkins - 20 Pads,96.0,82.0,verified ratings,4.5,Health & Beauty
+40,Fogg Roll On Deodorant - Absolute for Men - 50 ml,480.0,38.5,verified ratings,4.1,Health & Beauty
+41,"Maybelline New York Maybelline Lifter Lip Gloss, 003 Moon",491.0,570.0,verified ratings,4.6,Other Category
+42,L'Oreal Paris Elvive Extraordinary Oil Mask very dry hair- 300ml,783.0,357.0,verified ratings,4.4,Health & Beauty
+43,Fogg Perfume Spray - Marco - 120 ml,178.0,92.0,verified ratings,5.0,Health & Beauty
+44,Maybelline New York Maybelline New York Volum' Express Colossal Black Mascara,2371.0,260.5,verified ratings,4.2,Health & Beauty
+45,Axe Body Spray for Men Recharge 150ML,425.0,124.0,verified ratings,4.3,Health & Beauty
+46,Oxi Dishwashing Liquid with Green Lemon Scent  1 kg,82.0,36.0,verified ratings,4.4,Appliances
+47,Glysolid Lotion - Musk - 500 ML,113.0,144.0,verified ratings,4.5,Health & Beauty
+48,Axe Body Spray for Men Skateboard & Fresh Roses 150ML,560.0,124.0,verified ratings,4.4,Health & Beauty
+49,Clear Anti-Hairfall & Anti-Dandruff Shampoo for Women - 360Ml,17.0,109.0,verified ratings,3.6,Health & Beauty
+50,Dice Men's BOXERS (3) PIECE'S,41.0,184.99,verified ratings,5.0,Fashion
+51,"NIVEA Moisturising Cream, Soft Refreshing for Face Body Hands, Fast Absorbing,, Jar 100ml",360.0,66.0,verified ratings,4.6,Health & Beauty
+52,Closeup Deep Action Toothpaste  Mint Flavor  100ml,277.0,39.75,verified ratings,4.3,Computing
+53,Vaseline Intensive Care Cocoa Radiant Body Lotion  200 ml,151.0,109.0,verified ratings,4.4,Health & Beauty
+55,Fogg Perfume Spray for Women - Essense - 120 Ml,195.0,89.0,verified ratings,4.4,Health & Beauty
+56,Eva B-White Under-eye lightning cream - for dark skin 20 gm,135.0,38.0,verified ratings,3.8,Health & Beauty
+57,L'Oreal Paris Hyaluron Expert 24H Repluming Moisturizing Tissue Mask,1185.0,100.0,verified ratings,4.4,Other Category
+58,Avuva Vanilla Marshmallow Hand & Body Cream  63ml,51.0,60.0,verified ratings,4.4,Health & Beauty
+59,L'Oreal Paris Glycolic Bright Glowing Serum  30ml,120.0,415.0,verified ratings,4.2,Health & Beauty
+60,Fogg Master Fragrance Body Spray - Cedar - 120 ML,85.0,89.0,verified ratings,4.4,Health & Beauty
+61,Slipper Glitter Imported Soft And Light Medical Sole Size From 37: 41 Small Mold We Supply No,16.0,169.15,verified ratings,4.3,Health & Beauty
+62,Taha Offer Silicone Hair Brush For Scalp Massage,27.0,39.99,verified ratings,5.0,Health & Beauty
+63,Private Maxi Pocket Normal Pads - 8 Pcs,26.0,21.0,verified ratings,4.2,Other Category
+64,"Maybelline New York Maybelline Lifter Lip Gloss, 004 Silk",594.0,570.0,verified ratings,4.5,Other Category
+65,Fogg Perfume Spray - Napoleon - 120 Ml,104.0,89.0,verified ratings,5.0,Health & Beauty
+66,Fogg Splendid Roll On Deodorant For Women - 50 ml,78.0,38.5,verified ratings,4.2,Health & Beauty
+67,Private Extra Thin Night Feminine Pads With Wings - 14 Pads,87.0,73.0,verified ratings,4.7,Health & Beauty
+68,Milk - (3) Underwear Cotton - For Women,76.0,165.0,verified ratings,4.4,Fashion
+69,"Garnier Skin active Fast Clear 3 in 1 Face Wash, For Acne Prone Skin With Salicylic Acid and Vitamin C - 150ml",26.0,160.0,verified ratings,4.6,Health & Beauty
+70,"NIVEA Natural Glow Body Cream, Even Tone Complex & Vitamin C, All Skin Types, Jar 50ml",336.0,27.0,verified ratings,4.4,Health & Beauty
+71,L'Oreal Paris Elvive Hyaluron Pure Rehydrating Conditioner for Oily Hair 360ml,18.0,153.0,verified ratings,4.6,Health & Beauty
+72,Fiancee Hair Food Cream With Garlic & Almond Pump - 180 ml+ 60 ml,65.0,54.0,verified ratings,3.9,Health & Beauty
+73,ATA ATA 32HON - 32-inch HD TV,192.0,4399.0,verified ratings,5.0,Television & Audio
+74,Maybelline New York Maybelline New York Fit Me Matte + Poreless FOUNDATION-110 porcelain,494.0,480.0,verified ratings,4.3,Health & Beauty
+75,Fogg Perfume Spray - Absolute - 120 Ml,128.0,89.0,verified ratings,4.2,Health & Beauty
+76,Private Sanitary Napkins Soft Cotton Normal With Wings - 30 Pads,113.0,64.0,verified ratings,4.3,Other Category
+77,Clorox Clorox for Colors Floral 950ML,98.0,41.0,verified ratings,4.4,Other Category
+78,Sunsilk Shampoo Black & Shine 350Ml,49.0,69.0,verified ratings,4.2,Health & Beauty
+79,Milk - (3) Underwear Cotton - For Women,56.0,165.0,verified ratings,4.2,Fashion
+80,"Oraimo Freepods Lite OTW-330 ENC Noise Cancellation, Up to 8HRs, IPX4 Water Resistance - Lake Blue",9.0,529.0,verified ratings,4.2,Phones & Tablets
+81,L'Oreal Paris Infaillible Matte Resistance Liquid Lipstick - Intense Color & Matte Finish - Long-lasting - No Transfer - With Hyaluronic Acid - 105 Breakfast In Bed,1.0,735.0,verified rating,5.0,Health & Beauty
+82,Huawei Watch Fit 3 - 1.82 Inch - Amoled - Bluetooth 5.2 - Battery Life Up to 10 Days SmartWatch - 5 ATM Water Resistance - White,1.0,6649.0,verified rating,5.0,Phones & Tablets
+83,L'Oreal Paris Matte Signature 01 Ink - Dip Liner,85.0,780.0,verified ratings,4.3,Other Category
+86,Andora Sleeveless Chiffon Long Cardigan With Patterned Accent - Off White,4.0,199.0,verified ratings,4.8,Other Category
+87,"L'Oreal Paris Infaillible 24H Fresh Wear Foundation in a Powder - Waterproof, Full Matte Coverage Transferproof Makeup - 260 Golden Sand",9.0,795.0,verified ratings,3.8,Health & Beauty
+88,L'Oreal Paris Waterproof Full Coverage Infaillible More Than Concealer - 328.5 Crème Brulée,17.0,765.0,verified ratings,4.1,Supermarket
+89,"L'Oreal Paris PRO XXL Extension Mascara - Buildable Volume, Lengthening Effect",48.0,675.0,verified ratings,4.6,Health & Beauty
+90,Sunsilk Conditioner Coconut Moisture 350ML,111.0,81.0,verified ratings,4.5,Other Category
+91,"L'Oreal Paris Infaillible More Than Concealer - 331 Latte - Waterproof, Full Coverage",73.0,765.0,verified ratings,4.1,Supermarket
+92,"L'Oreal Paris Eyes, Paradise Le Khol Naturel liner  101 midnight black",36.0,345.0,verified ratings,5.0,Other Category
+93,Maybelline New York Superstay Active Wear Full Coverage 30Hr Liquid Foundation - 10 Ivory,84.0,695.0,verified ratings,4.4,Health & Beauty
+94,Cybele Smooth N Wear Compact Powder - No.02 Opale,3.0,261.0,verified ratings,4.7,Health & Beauty
+95,Jac 55JB631 - 55 Inch 4K UHD Smart LED TV,1.0,15699.0,verified rating,5.0,Television & Audio
+96,Frida airmatic raspberry ice cream 250 ml,38.0,88.0,verified ratings,4.6,Health & Beauty
+97,Martina Store Women's T-shirt Made Of Ribbed Cotton - Green,1.0,127.49,verified rating,5.0,Fashion
+98,2 Multicolored String Bracelet Or Anklet Unisex,16.0,77.0,verified ratings,4.3,Fashion
+99,Anker A81F5H11Cable 322 USB-C to USB-C Cable 60W 3ft - Black,1.0,229.0,verified rating,5.0,Phones & Tablets
+100,PE Foam 3D Brick Pattern Wallpaper - 70*77 Cm - 1 Pc,11.0,79.0,verified ratings,4.4,Other Category
+101,Maybelline New York Maybelline New York Fit Me Matte + Poreless - 122 CREAMY BEIGE,33.0,480.0,verified ratings,4.3,Health & Beauty
+102,Navy Women Girls Hair Claw,5.0,45.0,verified ratings,4.8,Health & Beauty
+104,"L'Oreal Paris InfaillibleGel Grip 36H Auto Liner Black  Waterproof, Transfer-Proof 001 Instense Black",28.0,555.0,verified ratings,4.4,Supermarket
+105,Johnson's Body Care Moisturizing Cream All Skin Types - 100g,80.0,34.0,verified ratings,4.3,Health & Beauty
+106,Anker Soundcore R50I Nc - A3959H11 - Black,2.0,1575.9,verified ratings,5.0,Phones & Tablets
+107,Eva Expert Anti Dandruff Hair Food Wax,17.0,52.5,verified ratings,5.0,Health & Beauty
+108,Martina Store Basic Round Neck Full Sleeves - Beige,2.0,169.99,verified ratings,5.0,Other Category
+110,Man Look Shaving Cream Aloe Vera- 90gm,3.0,47.5,verified ratings,4.7,Health & Beauty
+111,"L'Oreal Paris Infaillible 24H Matte Cover Foundation 145 Beige Rose -Oil Control, High Coverage",7.0,680.5,verified ratings,5.0,Health & Beauty
+112,Mini Neck Fan Portable- Rechargeable,3.0,627.0,verified ratings,5.0,Other Category
+113,Maybelline New York Superstay Active Wear Concealer - 25 Medium,30.0,480.0,verified ratings,4.5,Other Category
+114,Comodo - Gym Trousers Are Excellent,7.0,249.99,verified ratings,5.0,Fashion
+115,Andora Slip On V Neck Basic T-Shirt - Orange,10.0,199.0,verified ratings,4.2,Fashion
+116,Maybelline New York Sensational Liquid Matte Lipgloss - 02 Strip It Off,82.0,395.0,verified ratings,5.0,Other Category
+117,L'Oreal Paris Natural No Makeup Look Blush Powder - 01 Life's A Peach,129.0,795.0,verified ratings,4.3,Health & Beauty
+118,Emergency Head Torch - For Hunting & Camping Works On AAA Batteies,9.0,59.9,verified ratings,4.3,Other Category
+119,L'Oreal Paris Infaillible 24H Fresh Wear Foundation In A Powder 130 True Beige,27.0,795.0,verified ratings,3.6,Health & Beauty
+121,GP Batteries Rechargeable AA Batteries - 2700- 2 Pcs,345.0,66.9,verified ratings,3.8,Phones & Tablets
+122,"Always MAXI THICK , Extra Long ,cool & Dry, 48 Pads",4.0,157.0,verified ratings,4.8,Other Category
+123,Eva Sweet Cherry LIP BALM SPF15,2.0,99.0,verified ratings,5.0,Other Category
+124,Simple Open Design Leaf Ring - 925 Pure Silver,135.0,382.5,verified ratings,4.5,Other Category
+125,Defacto Woman Regular Fit Crew Neck Woven Long Sleeve Tunic,10.0,799.0,verified ratings,5.0,Appliances
+126,Cleaning Brush With Long Handle Tile Brush.,3.0,99.0,verified ratings,5.0,Other Category
+127,SHEIN LUNE Contrast Lace Batwing Sleeve Tee Black,5.0,296.0,verified ratings,5.0,Other Category
+129,"Fresh Shabah Stand Fan With Remote Control, 18 Inches, Black And Red",13.0,2020.0,verified ratings,4.5,Other Category
+130,Push Up Panti High Brief- Beige,4.0,345.0,verified ratings,5.0,Other Category
+131,Bath & Body Works New Edition DARK KISS Mist & Lotion,7.0,1100.0,verified ratings,3.9,Health & Beauty
+132,Cerave MOISTURISING LOTION VERY DRY 236 ML (70814),7.0,566.0,verified ratings,4.1,Health & Beauty
+133,Abu Auf Turkish Coffee Medium Plain  250 Gm,1.0,227.0,verified rating,5.0,Supermarket
+134,Cleopatra Makhmarya Body And Hair Moisturizing And Perfuming 50 Ml - Mozhela,6.0,88.0,verified ratings,3.3,Health & Beauty
+135,120W Super Flash Charger + 6A Type-C Charging Cable For Phones With High Charging Speeds,2.0,349.48,verified ratings,5.0,Phones & Tablets
+136,"Finish Dishwasher Detergent Tablets, Quantum Lemon Sparkle - 35 Tablets + 10 Free",2.0,499.0,verified ratings,3.5,Appliances
+137,Infinix HOT 40i X6528 4GB RAM 128GB ROM HORIZON GOLD,1.0,4930.0,verified rating,5.0,Phones & Tablets
+138,"The New Free Seas Two Butterfly Ring, Italian 925 Silver",22.0,382.5,verified ratings,4.5,Other Category
+139,Gillette Blue3 ComfortGEL (3 Sharper Blades) Razor *8 + Azwaaa Gift,16.0,299.0,verified ratings,4.1,Television & Audio
+141,Abu Auf Turkish Coffee Light Plain  250 Gm,4.0,227.0,verified ratings,4.8,Supermarket
+142,Defacto Woman Oversize Fit Crew Neck Long Sleeve Knitted Sweat Shirt,12.0,499.0,verified ratings,4.6,Fashion
+143,Glitter Women Slippers - Black + Multi Color,2.0,203.0,verified ratings,5.0,Fashion
+145,Glitter Women Glitter Ballerina - Beige,30.0,223.0,verified ratings,4.4,Other Category
+146,"Taha Offer Double Sided Organizer With Hanger For Underwear And Socks, 6 Front Pockets 18 Back Pockets 1 Piece",13.0,79.79,verified ratings,4.2,Fashion
+147,Gillette Blue3 ComfortGEL (3 Sharper Blades) Razor *12 + Azwaaa Gift,3.0,425.0,verified ratings,4.7,Television & Audio
+148,Shield Water Proof Cross Body Bag -black,7.0,339.15,verified ratings,4.4,Fashion
+149,Free Size Gold Plated Stainless Steel Ring,1.0,140.0,verified rating,5.0,Other Category
+150,Arabiyat OUD AL LAYL For Unisex 100ml - Eau De Parfum,24.0,520.0,verified ratings,4.5,Other Category
+151,Lady Taha Offer Active Charcoal,1.0,49.95,verified rating,5.0,Other Category
+152,Printed Cotton Dress For Sleep,2.0,169.15,verified ratings,5.0,Fashion
+153,5 PCs Of An Alternative To Nails For Hanging Pictures And Anything Without Perforating The Wall Or Doors,7.0,60.0,verified ratings,4.9,Health & Beauty
+155,"Women's Slippers. Fashion And Modern Design,",1.0,190.0,verified rating,5.0,Fashion
+156,Fairy All In One Plus Dishwasher Capsules - 50 Capsules,14.0,596.0,verified ratings,4.2,Appliances
+157,Samsung 25W PD Adapter With USB-C To USB-C Cable TA800 - Black,2.0,449.0,verified ratings,3.5,Phones & Tablets
+158,"Stylish, Organized And Portable Bag For Organizing Travel Tools And Essentials",2.0,73.26,verified ratings,5.0,Fashion
+159,Selective Collection SWEET VANILLA Body Splash - 250 Ml,2.0,220.0,verified ratings,5.0,Other Category
+160,"Eva EvaClinic Bébé - Diaper Rash Cream, 100gm",1.0,115.0,verified rating,5.0,Health & Beauty
+161,Fan USB Rechargeable - Sports Fans Usb - Outdoor Hanging Neck Fan - With 3 Speeds - Pink,3.0,399.0,verified ratings,2.7,Appliances
+162,"Always MAXI THICK , Extra Long ,cool & Dry, 48 Pads",4.0,157.0,verified ratings,4.8,Other Category
+163,Ten Tech Transparent Cover With Anti-shock Corners Made Of Heat-resistant Polyurethane For Xiaomi Redmi Note 10 Lite  Transparent,8.0,100.0,verified ratings,3.9,Phones & Tablets
+164,F Type Screw Connector Socket To RF Coax Aerial Male Adapter,2.0,9.99,verified ratings,5.0,Other Category
+166,Simple Open Design Leaf Ring - 925 Pure Silver,135.0,382.5,verified ratings,4.5,Other Category
+167,Cleaning Brush With Long Handle Tile Brush.,3.0,99.0,verified ratings,5.0,Other Category
+168,SHEIN LUNE Contrast Lace Batwing Sleeve Tee Black,5.0,296.0,verified ratings,5.0,Other Category
+169,Push Up Panti High Brief- Beige,4.0,345.0,verified ratings,5.0,Other Category
+171,Bath & Body Works New Edition DARK KISS Mist & Lotion,7.0,1100.0,verified ratings,3.9,Health & Beauty
+173,American Eagle Slim Crew-Neck Tee,4.0,400.0,verified ratings,5.0,Fashion
+175,Cerave MOISTURISING LOTION VERY DRY 236 ML (70814),7.0,566.0,verified ratings,4.1,Health & Beauty
+176,Abu Auf Turkish Coffee Medium Plain  250 Gm,1.0,227.0,verified rating,5.0,Supermarket
+177,Cleopatra Makhmarya Body And Hair Moisturizing And Perfuming 50 Ml - Mozhela,6.0,88.0,verified ratings,3.3,Health & Beauty
+178,"Finish Dishwasher Detergent Tablets, Quantum Lemon Sparkle - 35 Tablets + 10 Free",2.0,499.0,verified ratings,3.5,Appliances
+179,Infinix HOT 40i X6528 4GB RAM 128GB ROM HORIZON GOLD,1.0,4930.0,verified rating,5.0,Phones & Tablets
+180,"The New Free Seas Two Butterfly Ring, Italian 925 Silver",22.0,382.5,verified ratings,4.5,Other Category
+181,Gillette Blue3 ComfortGEL (3 Sharper Blades) Razor *8 + Azwaaa Gift,16.0,299.0,verified ratings,4.1,Television & Audio
+183,Abu Auf Turkish Coffee Light Plain  250 Gm,4.0,227.0,verified ratings,4.8,Supermarket
+184,Defacto Woman Oversize Fit Crew Neck Long Sleeve Knitted Sweat Shirt,12.0,499.0,verified ratings,4.6,Fashion
+185,Lubrex Lubricant Gel For Sexual Wellness - Excited - 100 ML,2.0,125.0,verified ratings,2.5,Other Category
+186,Dsp Electric Eyebrow Hair Remover Painless Eyebrow Trimmer,12.0,294.99,verified ratings,4.1,Health & Beauty
+187,Glitter Women Slippers - Black + Multi Color,2.0,203.0,verified ratings,5.0,Fashion
+188,EL-ADL Tec 924 Corded Office Phone With Caller ID,155.0,544.5,verified ratings,4.4,Phones & Tablets
+189,Glitter Women Glitter Ballerina - Beige,30.0,223.0,verified ratings,4.4,Other Category
+190,Gillette Blue3 ComfortGEL (3 Sharper Blades) Razor *12 + Azwaaa Gift,3.0,425.0,verified ratings,4.7,Television & Audio
+191,Abu Auf French Coffee With Milk  250 Gm,5.0,217.0,verified ratings,3.4,Supermarket
+192,Arabiyat OUD AL LAYL For Unisex 100ml - Eau De Parfum,24.0,520.0,verified ratings,4.5,Other Category
+193,5 PCs Of An Alternative To Nails For Hanging Pictures And Anything Without Perforating The Wall Or Doors,7.0,60.0,verified ratings,4.9,Health & Beauty
+195,Kieslect KS Calling Smart Watch - Double Straps - Black,8.0,3699.0,verified ratings,4.9,Fashion
+196,OneHand Boys Summer Cotton Pajama - Orange,25.0,235.0,verified ratings,4.5,Other Category
+197,Samsung 25W PD Adapter With USB-C To USB-C Cable TA800 - Black,2.0,449.0,verified ratings,3.5,Phones & Tablets
+198,"Stylish, Organized And Portable Bag For Organizing Travel Tools And Essentials",2.0,73.26,verified ratings,5.0,Fashion
+199,Selective Collection SWEET VANILLA Body Splash - 250 Ml,2.0,220.0,verified ratings,5.0,Other Category
+200,Koki Unique Handmade Silver Eyeglass Chain,31.0,45.0,verified ratings,4.2,Other Category
+281,Karimed HI BEAUTY Leave In Lotion 150ML Spray One Minute Repair,166.0,79.0,verified ratings,3.7,Health & Beauty
+282,Mesery Bundle OF Three Brief Smooth Cotton Hipster Panties,76.0,99.99,verified ratings,3.8,Other Category
+283,Activ Pinapple Prints Allover White Thong Slipper,181.0,99.0,verified ratings,4.3,Phones & Tablets
+284,Taha Offer Foldable Thermal Lunch Bag For Travel And Hiking,2.0,39.99,verified ratings,5.0,Fashion
+285,ADIDAS LKK20 Advantage Cf C Tennis Shoes - Core Black,12.0,1819.3,verified ratings,4.3,Fashion
+286,Taha Offer Cake And Shawarma Knife With Wooden Handle 1 Piece,95.0,33.33,verified ratings,5.0,Home & Furniture
+287,"Children's Bottle With Shalimoh, Excellent Material.",9.0,133.65,verified ratings,4.9,Other Category
+288,L'Oreal Paris Paradise Exotic Intense Volume Mascara With Castor Oil - 01 Black,1704.0,600.0,verified ratings,4.4,Health & Beauty
+289,Clorox Clorox for Colors Regular 950ML,104.0,41.0,verified ratings,4.2,Other Category
+290,Taha Offer Small Wooden Spoons Size Of A Tea Spoon 1 Pcs,18.0,9.99,verified ratings,4.1,Other Category
+291,Jumia Fragile Stickers  12 Pcs,77.0,5.0,verified ratings,4.5,Other Category
+292,Soul & More Delicious Body Splash 120ML,32.0,212.5,verified ratings,4.8,Other Category
+293,Fogg Ice Air Freshener,52.0,26.0,verified ratings,3.7,Supermarket
+294,Fogg Perfume Spray Pocket - Royal - 17 ML,98.0,29.75,verified ratings,4.2,Health & Beauty
+295,Defacto Man Oversize Fit Crew Neck Short Sleeve Knitted T-Shirt.,3.0,599.0,verified ratings,5.0,Fashion
+296,Kolagra Dry Touch Sunscreen Gel Cream With Antioxidant 50 Ml,82.0,140.0,verified ratings,4.2,Health & Beauty
+297,L'Oreal Paris Glycolic Bright Glowing Daily Cleanser Foam - 100 ml,92.0,150.0,verified ratings,4.1,Other Category
+298,"Garnier Skin active Fast Clear 3 in 1 Face Wash, For Acne Prone Skin With Salicylic Acid and Vitamin C - 50ml",39.0,80.0,verified ratings,3.9,Health & Beauty
+299,Glysolid Body Lotion  Musk  200ml,265.0,66.0,verified ratings,4.4,Health & Beauty
+300,Skyline SF18-N JET - Stand Fan 18`` JET - Black,8.0,969.0,verified ratings,4.6,Television & Audio
+301,Roomba Fashion Sneakers - Men,268.0,265.0,verified ratings,3.6,Fashion
+302,Taha Offer Fast Drying Hair Towel Bonnet In The Shape Of A Bow 1 Piece,93.0,48.99,verified ratings,4.1,Health & Beauty
+303,ADIDAS LZX05 Adilette Aqua Swim Sandals/Slippers,77.0,974.35,verified ratings,4.8,Fashion
+304,Taha Offer Non-stick Air Fryer Paper Plate 50 Pieces,97.0,48.5,verified ratings,4.2,Appliances
+305,Fogg Perfume Spray - Extreme - 120 Ml,99.0,89.0,verified ratings,4.2,Health & Beauty
+306,SHEIN 8pcs Rhinestone Decor Ring-1751,30.0,99.99,verified ratings,5.0,Other Category
+307,Taha Offer Wrap The Hair With Tarpaulin 1 Piece,14.0,19.99,verified ratings,4.8,Health & Beauty
+308,SHEIN Floral Print One Piece Swimsuit-4512,49.0,599.99,verified ratings,4.4,Other Category
+309,LC Waikiki Short Sleeve Polo Neck Short Sleeve Baby Boy T-Shirt,24.0,179.0,verified ratings,4.8,Fashion
+310,Argento Clear Facial Cleanser For Oily - 200ml,8.0,95.0,verified ratings,5.0,Other Category
+311,Frida Home  Cleaning Fragrance Beach Dream 480 ml,382.0,38.0,verified ratings,4.3,Other Category
+312,Favelin Moroccan Argan Conditioner - 500 Ml,40.0,280.0,verified ratings,4.3,Other Category
+313,Women Sock Sneakers - White,47.0,220.0,verified ratings,4.3,Fashion
+314,"Anker P25i True Wireless Earbuds IPX5 Waterproof ,30H Playtime - A3949Z11 - Black 1",161.0,1050.6,verified ratings,4.3,Phones & Tablets
+315,Extra Large Storage Bag With Sturdy Handle For Storing Clothes And Blankets,39.0,48.0,verified ratings,3.4,Home & Furniture
+316,ADIDAS LTK63 Running Nebzed Elastic Lace Top Strap Shoes- Black,12.0,2099.3,verified ratings,4.3,Fashion
+317,Bracelets 4Pcs Set Trendy Bracelets For Women,346.0,39.8,verified ratings,3.9,Fashion
+318,Sanita Charm Round Ear Buds - 100 Pieces,86.0,26.0,verified ratings,4.3,Other Category
+319,Sports Cap Fashion Style High Quality - Black,72.0,85.0,verified ratings,4.2,Fashion
+320,Jumia Security Seal - 10 Pcs P@ckaging M@terial$,199.0,15.96,verified ratings,4.4,Other Category
+441,Shining Crystal 925 Silver Necklace,1.0,1000.0,verified rating,5.0,Other Category
+442,ALHAMBRA Man Black Edition EDP For Men 100 Ml,6.0,635.0,verified ratings,4.2,Other Category
+445,Pink Velvet Shirt With Pockets,1.0,399.0,verified rating,5.0,Fashion
+446,Chinese Gold Earrings Colored Zircon Crystals,2.0,175.0,verified ratings,4.5,Fashion
+447,Shirley May Blue Belle - Body Spray - Pour Femme - 75ml,1.0,55.0,verified rating,5.0,Health & Beauty
+449,"Air Dry Magic Clay For Kids, Ultra Lightness Formation Clay 12 Color",3.0,99.0,verified ratings,2.3,Other Category
+450,'I Love You' In 100 Languages Italian Silver Ring *Free Size*,25.0,1000.0,verified ratings,4.6,Other Category
+452,MAQAM Happiness Baby Dreams Shampoo,2.0,220.0,verified ratings,5.0,Health & Beauty
+453,"Sharp Deep Freezer Inverter Digital No Frost 6 Drawers 250 Liter, Stainless FJ-EC23(ST)",5.0,29070.0,verified ratings,5.0,Television & Audio
+459,"Philips Star Led Lamp 9w,900lum, Cool Daylight, 2pcs + Azwaaa Gift",3.0,197.0,verified ratings,5.0,Other Category
+461,Johnson's Baby Bath 200 Ml,2.0,120.0,verified ratings,5.0,Home & Furniture
+462,SODO SD- 1007 Bluetooth Wireless Headphone - Light Gray,2.0,499.0,verified ratings,4.5,Phones & Tablets
+463,Durex Play Lubricant Saucy Strawberry 50ml + Play Feel Pleasure Gel - 50ml,1.0,699.0,verified rating,5.0,Other Category
+467,Glitter Women Summer Slippers - Black,1.0,222.0,verified rating,5.0,Fashion
+468,Red Cubic Zircon Necklace - 925 Pure Silver,14.0,637.5,verified ratings,4.4,Other Category
+470,Samsung S23 Ultra Privacy Full Prtection Glass Screen Protector - Black,1.0,175.0,verified rating,5.0,Phones & Tablets
+471,Sterling Silver 925 Ball Ring For Women - Italian Silver 925,12.0,800.0,verified ratings,4.7,Other Category
+473,Defacto Woman Denim Wideleg Cargo Trousers,12.0,999.0,verified ratings,4.6,Fashion
+474,Pure Turkish Silver 925 Bracelet,2.0,2000.0,verified ratings,5.0,Fashion
+476,"ORAL-B ULTRATHIN SENSITIVE Black Extra Soft40, 0.01mm (2Get1)",4.0,247.0,verified ratings,5.0,Other Category
+479,"Sokany Swift Garment Steamer AJ-2205 , 1200W +Azwaaa Bag",4.0,1699.0,verified ratings,4.5,Fashion
+480,SODO SD- 1003 Bluetooth Wireless Headphone - Grey,2.0,426.0,verified ratings,5.0,Phones & Tablets
+481,NIVEA Body Cream Cocoa Butter Deep Moisture Serum,2.0,129.0,verified ratings,4.5,Health & Beauty
+484,Direwolf Attack On Titan Medal,1.0,150.0,verified rating,5.0,Other Category
+486,Baby Crochet Dress - Pink And White,1.0,350.0,verified rating,5.0,Fashion
+487,Shoulder bag For Women - Dark Blue,1.0,250.0,verified rating,5.0,Fashion
+488,Women's Crochet - Shoulder Bag - White...,4.0,220.0,verified ratings,5.0,Fashion
+489,1 Pair Front Seat Adjustment Lock Backrest Handle Switch 2079108506 2079108606 For Mercedes-Benz W204 C204 W207 C E Class COUPE,1.0,2016.0,verified rating,5.0,Other Category
+491,HP Ink Cartridge 652 Black And 652 Tri Color Set,16.0,1850.0,verified ratings,4.6,Computing
+492,Masters Men Polo Shirt Half Sleeve - Blue,3.0,233.75,verified ratings,4.7,Fashion
+493,Oriental Weavers Square Arabesque Gobelin Cushion - Multicolor,38.0,98.0,verified ratings,4.5,Other Category
+494,Oriental Weavers Square Arabesque Gobelin Cushion Cover - 50x50 Cm,25.0,98.0,verified ratings,4.8,Other Category
+495,High Quality Tin Solder Wire Spool 1.0 Mm Diameter 40/60,2.0,190.0,verified ratings,5.0,Other Category
+499,"JOYROOM S-Iw001S Ben Series Magnetic Charging Cable For Apple Watch, 1.2M - Whiteþ",1.0,345.0,verified rating,5.0,Phones & Tablets
+500,925 Silver Ring With Natural Onyx Handmade,1.0,1000.0,verified rating,5.0,Other Category
+501,Glitter Women Hand Bag With Cross Hand - Black,1.0,455.0,verified rating,5.0,Fashion
+502,OPPO F11 Clear View Case BLACK,1.0,180.0,verified rating,5.0,Phones & Tablets
+505,Oriental Weavers Square Arabesque Gobelin Cushion - Multicolor,53.0,98.0,verified ratings,4.5,Other Category
+506,"Dual Adaptor Lightning To 3.5mm Audio + Lightning Charge Converter For IPhone X, 7, IPad",6.0,129.0,verified ratings,5.0,Phones & Tablets
+510,Oriental Weavers Arabesque Goblin Carpet,6.0,756.0,verified ratings,5.0,Other Category
+511,Fogg Marco Perfume Spray 120 Ml,1.0,132.0,verified rating,5.0,Health & Beauty
+512,"LG 32 Inch Smart LED TV, HD HDR Smart LED TV",1.0,13500.0,verified rating,5.0,Television & Audio
+518,American Eagle Beach Cover Up Midi Dress,5.0,440.0,verified ratings,4.8,Fashion
+519,Bath & Body Works Into The Night Mist & Lotion & Shower Gel & Body Cream,1.0,2800.0,verified rating,5.0,Health & Beauty
+561,Baby Girls Summer Dress,2.0,149.99,verified ratings,5.0,Fashion
+563,Samsung A55 Shockproof Silicone Full Protection Back Case Cover,1.0,120.0,verified rating,5.0,Phones & Tablets
+565,Baby And Newborn Care Set 13 Pieces,1.0,346.5,verified rating,5.0,Baby Products
+566,"Smart Watch Rubber Band For Android,Black - DZ09",1.0,1000.0,verified rating,5.0,Fashion
+568,Girls Fashion Makeup And Accessories Play Set - 678,1.0,135.0,verified rating,5.0,Health & Beauty
+569,Pantene Milky Damage Repair Shampoo - 200Ml,14.0,129.0,verified ratings,4.6,Health & Beauty
+571,Color Changing LED Light With Wireless Bluetooth Speaker To Play Music With Remote Control,1.0,324.23,verified rating,5.0,Television & Audio
+572,Celebrat A20 Wireless Earphones - Black,1.0,290.0,verified rating,5.0,Phones & Tablets
+578,Defacto Woman Denim Flare Fit Trousers,2.0,899.0,verified ratings,4.5,Fashion
+579,22mm Three Flat Buckle Stainless Steel Replacement Watchband For Huawei Watch GT2 Pro / Amazfit GTR 2(Black),1.0,210.0,verified rating,5.0,Phones & Tablets
+581,Finish All In One Max Dishwasher Detergent Tablets  Lemon  27 Tabs,2.0,399.0,verified ratings,5.0,Appliances
+583,Avon Today - EDP - For Women - 50ml,9.0,1165.0,verified ratings,4.7,Other Category
+585,"Silicone Watch Band 22mm For Samsung Galaxy Watch 3 45-46mm / Gear 3, Waterproof Soft Silicone Sport Band For Huawei Watch GT3 46mm / GT2E / GT 46mm / GT2 Pro / GT2 46mm / Honor Magic Watch 2 Pro 46mm / Amazfit 3 / GTR3 / GTR4 Pro, By Tentec - White",2.0,130.0,verified ratings,5.0,Phones & Tablets
+588,Lobed Ring - Pure Italian Silver,23.0,1000.0,verified ratings,4.1,Other Category
+589,Starville Whitening Whitening Roll On Fresh Breeze - 60 Ml,3.0,175.0,verified ratings,5.0,Health & Beauty
+590,Avon Rare Gold - EDP - For Women - 50Ml,134.0,523.0,verified ratings,4.4,Other Category
+592,Titiz Banana Case - Yellow,5.0,81.0,verified ratings,4.2,Other Category
+594,Celebrat A22 Wireless Headphones - Black,10.0,399.0,verified ratings,3.9,Phones & Tablets
+595,Fresh FA-M60W - Air Cooler - 60 L - White,98.0,4899.0,verified ratings,4.1,Other Category
+597,Glitter Women Glitter Ballerina - Beige,4.0,213.0,verified ratings,5.0,Other Category
+600,ãÇ ÇÍáì ÇáÍÈ,1.0,60.0,verified rating,5.0,Other Category
+644,925 Sterling Silver - Men Classic King Bracelet,2.0,1800.0,verified ratings,5.0,Fashion
+645,Tramontina Potato Peeler,2.0,170.0,verified ratings,5.0,Other Category
+649,SODO SD- 1004 Bluetooth Wireless Headphone - Grey,15.0,419.0,verified ratings,4.1,Phones & Tablets
+656,Cross Bag For Women - Gold,6.0,250.0,verified ratings,3.7,Fashion
+663,"Ring Light (ring 26 Cm) 3 Colors White, Off-white And Yellow With Metal Stand 225 Cm",3.0,280.0,verified ratings,4.3,Other Category
+665,Sunflower Pendant Necklace - Silver,1.0,1000.0,verified rating,5.0,Other Category
+669,Backpack Bag - For Women,1.0,300.0,verified rating,5.0,Fashion
+670,Mini Beautiful Design Fruit Forks For Kids-6pcs,1.0,78.0,verified rating,5.0,Other Category
+671,Energizer Accu Recharge Battery Charger Batteries - AA - 4 Pcs,3.0,1199.0,verified ratings,4.7,Phones & Tablets
+677,SODO SD- 1001 Bluetooth Wireless Headphone - Black,2.0,419.0,verified ratings,5.0,Phones & Tablets
+679,Simulated Pearl Shaped Pendant Necklace - 925 Silver,6.0,1500.0,verified ratings,4.7,Other Category
+680,Set Pins - Hair High Quality,1.0,75.0,verified rating,5.0,Health & Beauty
+681,Frida Sensation Chill out 460 ml,124.0,58.0,verified ratings,4.6,Other Category
+682,ADIDAS Lin18 Swim Footwear Sandals/Slippers - Black,20.0,1234.35,verified ratings,4.8,Fashion
+683,Martina Store Women Sweat Pants - Black,14.0,169.99,verified ratings,4.4,Fashion
+684,Sports Cap Fashion Style High Quality - PINK,13.0,85.0,verified ratings,4.5,Fashion
+685,Excellent Master Shirt Corset,10.0,89.99,verified ratings,4.1,Fashion
+686,Kiddy Small Baby Diapers 2 - 64 Pcs,10.0,192.0,verified ratings,3.3,Supermarket
+687,Taha Offer Kitchen Baking Glass Oil Sprayer 1 Piece,108.0,49.48,verified ratings,3.7,Appliances
+688,Pointed Suede Elegant Ballerina - Black,12.0,275.0,verified ratings,4.5,Other Category
+689,Defacto Woman Knitted Jogger Fit Trousers...,23.0,599.0,verified ratings,4.8,Fashion
+690,Professional Hair Clipper Metal Body - Gold,148.0,196.02,verified ratings,4.1,Health & Beauty
+691,Eva Cream With Glycerin 170 Gm,96.0,57.0,verified ratings,4.5,Health & Beauty
+692,Clear Legend by CR7 Anti-Dandruff Shampoo for Men - 600 ml,49.0,149.75,verified ratings,4.3,Health & Beauty
+693,Water Bottle With Time Marker -Leakage.,27.0,88.0,verified ratings,4.3,Supermarket
+694,Fresh Shabah Wall Fan With Remote - 18 Inch,40.0,1750.0,verified ratings,4.4,Other Category
+695,L'Oreal Paris Excellence Crème Hair Color - 5.3 Light Golden Brown,104.0,248.0,verified ratings,4.5,Health & Beauty
+696,ADIDAS MCY03 Football/Soccer Deportivo Ii Flexible Ground Boots- Black,13.0,1889.3,verified ratings,3.8,Fashion
+697,LC Waikiki Crew Neck Barbie Printed Short Sleeve Women's T-Shirt,3.0,239.0,verified ratings,5.0,Fashion
+698,"8 Makeup Brushes With A Pouch, Easy To Carry.Travel Friendly",76.0,88.0,verified ratings,3.8,Health & Beauty
+699,Carrier 38KHCT12N-708 Optimax Cooling Only Split Air Conditioner - 1.5 HP,6.0,29600.0,verified ratings,4.3,Computing
+700,3 Milky Coffee-Colored Hair Clips Hair Pins,11.0,31.5,verified ratings,4.5,Health & Beauty
+701,Sneaker Beige High For Woman,79.0,330.0,verified ratings,4.5,Fashion
+702,Aldi Portable Lunch Cooler Bag Folding Picnic Ice Pack Food Thermal Bag,115.0,48.51,verified ratings,4.2,Fashion
+703,Lux Soft Touch Softening Shower Gel French Rose & Almond Oil - 500ml,36.0,78.0,verified ratings,4.3,Other Category
+704,Backpack For School And Travel - Black,7.0,360.0,verified ratings,3.9,Other Category
+705,Kids Casual Set For Girls,43.0,153.0,verified ratings,3.7,Other Category
+706,Taha Offer Plastic Clips To Close Bags,50.0,12.11,verified ratings,3.7,Fashion
+707,Glassy Glass & Window Cleaner 500ml + 100ml Refill With Aquamarine Scent,34.0,21.0,verified ratings,4.5,Supermarket
+708,Bundle Of (12) Ankle Socks - For Men,482.0,89.99,verified ratings,3.9,Other Category
+709,American Eagle Super Soft Fleece Graphic Hoodie,63.0,840.0,verified ratings,4.6,Fashion
+710,Molped Total Protection Value Pack Extra Long - 14 Pads,69.0,54.0,verified ratings,4.3,Other Category
+711,Taha Offer Hand Mixer Egg Whisk High Quality Cream Butter Whisk 1 Piece,59.0,29.99,verified ratings,5.0,Appliances
+712,Lasso - Push Up Bra -,54.0,199.0,verified ratings,3.9,Other Category
+713,Comfortable Women's Slippers For Women And Girls,21.0,103.0,verified ratings,4.6,Fashion
+714,Martina Store Women's T-shirt Made Of Ribbed Cotton - Violet,15.0,135.99,verified ratings,4.8,Fashion
+715,Fashion Floral & Slogan Graphic Tote Bag-4755,37.0,129.99,verified ratings,4.7,Fashion
+716,Comfort Fabric Softener Spring Dew Blue 1 Liter Promo,136.0,69.0,verified ratings,4.4,Supermarket
+717,"Taha Display, Loofah Plates, Vegetables, And A Silicone Cup Base",4.0,12.12,verified ratings,3.8,Other Category
+718,Gillette Venus Comfortglide Breeze Handle + 2 Head - 3Blades,150.0,355.0,verified ratings,4.4,Other Category
+719,Activ Self Pattern Front Pocket Backpack - Black & Purple,2.0,329.0,verified ratings,5.0,Other Category
+720,Samsung Galaxy A24 - 6.5-inch 128GB/6GB Dual Sim 4G Mobile Phone - Silver,86.0,8849.0,verified ratings,4.3,Phones & Tablets
+723,Samsung Galaxy M51 Case Deer Silicone Phone Cover,1.0,140.0,verified rating,5.0,Phones & Tablets
+724,"Tornado Gas Water Heater 6 Liter Without Chimney, Digital, Natural Gas, Silver Gh-6sn-S",5.0,3839.0,verified ratings,4.8,Television & Audio
+725,OPPO A15 / A15S / A35 2021 - Full Protection Clear Silicone Cover,1.0,50.4,verified rating,5.0,Phones & Tablets
+726,Shirley May Blue Belle - Body Spray - Pour Femme - 75ml,1.0,55.0,verified rating,5.0,Health & Beauty
+729,Powercell Alkaline Dry Cell Battery 12V-23A (1pcs),1.0,150.0,verified rating,5.0,Television & Audio
+730,"Sharp Deep Freezer Inverter Digital No Frost 6 Drawers 250 Liter, Stainless FJ-EC23(ST)",5.0,29070.0,verified ratings,5.0,Television & Audio
+731,Sensory Fidget Toy Soft Stress Relief Squeeze Ball For Adult,1.0,49.0,verified rating,5.0,Other Category
+732,H Letter Printed Mug,2.0,124.0,verified ratings,5.0,Other Category
+738,Ring Al Hilal Silver Italy 925,13.0,425.0,verified ratings,4.5,Other Category
+739,Heart Tells You Mouse Pad -Rubber Cr-999,2.0,117.0,verified ratings,5.0,Computing
+741,Magnetic Power Play Set 10 PCS In 4 Shapes,5.0,149.0,verified ratings,4.8,Gaming
+751,Avuva Vanilla Marshmallow Body Scrub + Vanilla Coconut Splash 55ml,4.0,274.0,verified ratings,2.5,Other Category
+753,Avon Incandessence - EDP - For Women - 50 Ml,108.0,995.0,verified ratings,4.4,Other Category
+760,"Sokany Swift Garment Steamer AJ-2205 , 1200W +Azwaaa Bag",4.0,1699.0,verified ratings,4.5,Fashion
+761,Arabic /English Mini 2.4G Wireless 92 Keys Backlit Keyboard - Black,36.0,247.5,verified ratings,3.9,Computing
+763,Brand Stores Laptop Bag 15.6 Inch - Brand Stores - Black,3.0,199.0,verified ratings,4.3,Fashion
+764,Case Cover For A Nker Soundcore P25i Shock Resistant Cover With Carabiner (White),1.0,111.0,verified rating,5.0,Other Category
+768,"Power Cable For Computer, Printer And Monitor - Black",1.0,49.99,verified rating,5.0,Television & Audio
+769,Replacement Ear Pads for Life Q30/Q35Blue),1.0,294.0,verified rating,5.0,Other Category
+771,Silicone Case Protect Cover Anti-scratch Sleeve Fit Oraimo FreePods 4- Black,4.0,115.0,verified ratings,5.0,Phones & Tablets
+773,Cardoo Smart Watch Egypt Touch Screen CardoO Watch For Men And Women Heart Rate Waterproof Bluetooth Calls Smart Watch Support Arabic For Android And IOS (Silver),11.0,2499.0,verified ratings,3.9,Fashion
+774,Eti ÍÇãá ÊáíÝÒíæä XR-20 (ãÊÍÑß 6 ÍÑßÇÊ) íËÈÊ Úáì ÇáÍÇÆØ ãä Çí Êí Çí íÊÍãá ãä (19 : 37),2.0,424.0,verified ratings,4.5,Other Category
+776,Cable Ties - 25cm - White - 100 Pcs,2.0,65.0,verified ratings,5.0,Television & Audio
+777,DC12V 24 Keys IR Remote RGB Controller For LED Strip Lights Mini Controller,1.0,144.0,verified rating,5.0,Other Category
+780,Pajama Set Girly Cotton Summer Autumn,1.0,250.0,verified rating,5.0,Other Category
+782,Defacto Man Hat,1.0,249.0,verified rating,5.0,Fashion
+783,Fabric Laptop Sleeves,1.0,189.0,verified rating,5.0,Computing
+784,North Bayou Full Motion TV Wall Mount For Most 32-55 Inch P4,6.0,733.0,verified ratings,4.3,Television & Audio
+785,Silicone Case for LG AN-MR21GC MR21N/21GA Remote Control Protective Cover for LG OLED TV Remote AN MR21GA(Red),1.0,219.45,verified rating,5.0,Television & Audio
+786,Keyroad Sharpener 2 Hole,1.0,35.0,verified rating,5.0,Television & Audio
+787,Huawei GT 2e 46mm Tempered Glass Screen Protector,9.0,70.0,verified ratings,3.9,Phones & Tablets
+792,American Eagle AE Flex Lived-In Longer Length Cargo Short,26.0,1050.0,verified ratings,4.7,Fashion
+794,Airpods Pro Protective Silicone Case,3.0,49.9,verified ratings,3.7,Other Category
+795,"Lightning Female to USB C Male Adapter for iPhone 15/15 Pro/15 Pro Max/15 Plus,iPad Air i OS,Samsung Galaxy,Google Pixel,Charging Data Transmission,Type C Charger Connector Cable (Black)",1.0,199.0,verified rating,5.0,Phones & Tablets
+796,Arctic Hunter B00451 15.6-Inch Laptop Anti Theft Sport Waterproof Carbon Fiber Case USB Backpack Bag,5.0,2636.0,verified ratings,4.8,Television & Audio
+797,Radio - Electric /Battery - ISOLAR IS-R806AC,2.0,396.0,verified ratings,5.0,Television & Audio
+798,Host Case PC Cooler Fan Hub Splitter Cable for 4Pin PWM Coo,1.0,142.45,verified rating,5.0,Television & Audio
+799,Dolphin Silicone Swimming Cap Waterproof For Kids & Adults - Multicolour,3.0,140.0,verified ratings,5.0,Fashion
+800,Wired Headset 3.5mm Stereo Sports Ear Hook Gaming Earbud Blue,1.0,100.0,verified rating,5.0,Other Category
+802,ZERO Electricity Subscriber ( 1.5 Meter),1.0,195.0,verified rating,5.0,Other Category
+804,Glitter Women Bag With Cross Hand - Black,1.0,455.0,verified rating,5.0,Fashion
+805,Canon GI-490 Cyan Ink Bottle,5.0,624.0,verified ratings,5.0,Computing
+807,Bobana Yogurt Spa Salt - 300g,3.0,54.0,verified ratings,5.0,Other Category
+810,AKAI Cleaner Spray - 250ML,1.0,110.0,verified rating,5.0,Health & Beauty
+811,RAHALA RS-SetG 2 Pcs 15.6-Inch Laptop Protective Case Sleeve Waterproof Briefcase Handbag Bag,15.0,830.0,verified ratings,4.5,Fashion
+813,"4 Ports USB 2.0 HUB, Cable Length: 30cm",1.0,158.4,verified rating,5.0,Television & Audio
+818,New Smart Type C Card Reader OTG And USB For Mobile-Laptop-Car,1.0,99.0,verified rating,5.0,Phones & Tablets
+819,1 Bottle Mechanical Keyboard Switch Lightweight For Dustproof Red,1.0,156.0,verified rating,5.0,Computing
+820,Blue World Map Mouse Pad - 90 X 30cm - Soft Rubber Smooth Cloth Surface Game Mat,1.0,299.0,verified rating,5.0,Computing
+826,Mouse Hard Travel Case For Logitech MX Master 3,1.0,447.7,verified rating,5.0,Computing
+828,Men's Silver Ring Caliber 925,37.0,1000.0,verified ratings,4.2,Other Category
+830,BLUE World Map RGB Gaming Mouse Pad XL Rubber USB Wired For Mouse And Keyboard - 80*30cm,3.0,325.0,verified ratings,3.3,Television & Audio
+831,Triangular Coat Rack-Black,1.0,490.0,verified rating,5.0,Other Category
+833,"""Laptop Battery 33YDH Compatiple With DELL """,1.0,1600.0,verified rating,5.0,Television & Audio
+834,Forev FV-F50 Wireless Mouse - 1600DPI - 2.4Ghz 10m Range,1.0,350.0,verified rating,5.0,Computing
+835,"ORAL-B ULTRATHIN SENSITIVE Black Extra Soft40, 0.01mm (2Get1)",4.0,247.0,verified ratings,5.0,Other Category
+836,Silicone Protective Cover For Huawei M-Pencil 1 / 2 / 3,1.0,279.4,verified rating,5.0,Phones & Tablets
+837,Large Thermal Barcode Sticker Roll 10*15 400 Stickers,1.0,275.0,verified rating,5.0,Other Category
+839,Multi Plug Extension Electrical Socket 018 + Azwaaa Bag,5.0,79.99,verified ratings,4.4,Fashion
+840,SODO SD- 1003 Bluetooth Wireless Headphone - Grey,2.0,426.0,verified ratings,5.0,Phones & Tablets
+881,Case Compatible With Amazfit GTS4 Mini Case Watch Soft TPU Shockproof Cover (Clear),2.0,115.0,verified ratings,5.0,Fashion
+885,Decathlon Hard Ground Football Boots Agility 100 Turf TF - Black / Red,1.0,499.0,verified rating,5.0,Fashion
+887,Touch Control Wireless Bluetooth Led Speaker - White,4.0,228.0,verified ratings,4.3,Television & Audio
+893,For Huawei FreeBuds 5 2023 Silicone Case Soft Shockproof Protective Cover Blue,1.0,115.0,verified rating,5.0,Phones & Tablets
+894,External Hard Drive Disk Case Shockproof EVA Case 2.5in HDD,1.0,173.0,verified rating,5.0,Computing
+896,Decathlon Mens Hiking Fleece - Mh100,1.0,599.0,verified rating,5.0,Other Category
+898,Canon Color Headprint For Printer Canon G2400/2411/3411/3400,3.0,1849.0,verified ratings,5.0,Computing
+899,Samsung Galaxy Buds Live Pro Silicone Protective Case  Black,2.0,98.9,verified ratings,2.5,Phones & Tablets
+900,Adjustable Microphone Suspension Boom Scissor Arm Stand,22.0,299.0,verified ratings,4.2,Phones & Tablets
+901,Booms Bass L4 Wireless Bluetooth Speaker - Red,2.0,225.0,verified ratings,5.0,Television & Audio
+905,Soft Silicone Shock Proof Protective Case For Oraimo Freepods 4 Earphones - Blue,2.0,99.0,verified ratings,5.0,Phones & Tablets
+908,Practical Power Strip-7 Ports Used As Triple Or Double+2 Usb,1.0,229.29,verified rating,5.0,Television & Audio
+909,Laptop Skin 4 IN 1,1.0,110.0,verified rating,5.0,Computing
+912,Bq 8GB (4GB X 2 UNITS ) DDR3 1600MHZ UDIMM Memory ModuleS For PC,1.0,449.99,verified rating,5.0,Other Category
+913,Chess Mouse Pad -Rubber,1.0,117.0,verified rating,5.0,Computing
+918,Aula Arabic/English F2058 Full Mechanical Gaming Keyboard -Blue Switches-Rainbow Backlit,3.0,990.0,verified ratings,4.7,Computing
+919,Canon Multifunction Inkjet Printer Ts 3140,4.0,2899.0,verified ratings,5.0,Computing
+920,KINGDOM Wireless Speaker Color - Red,1.0,202.5,verified rating,5.0,Television & Audio
+928,Cross Bag For Women - Multicolor,1.0,290.0,verified rating,5.0,Fashion
+931,Scarve For Men - Black,5.0,300.0,verified ratings,4.4,Other Category
+932,Tornado Electric Water Heater 45 Litre In Off White Color With Digital Screen EWH-S45CSE-F,2.0,5767.0,verified ratings,5.0,Television & Audio
+934,Ice Cap For Men - Slushy - Dark Green,7.0,190.0,verified ratings,3.3,Fashion
+935,Crystal Hair Hoop Accessories,1.0,150.0,verified rating,5.0,Health & Beauty
+947,Women's Crochet - Cross Body Bag - Dark Red,1.0,300.0,verified rating,5.0,Fashion
+948,Cap Fashion Basic Free Size,1.0,125.0,verified rating,5.0,Fashion
+949,Scarv For Men - Blue,4.0,290.0,verified ratings,4.3,Other Category
+950,Frontline Combo Spot On For Dogs XL Over 40 Kg 3 Ampoule,1.0,2300.0,verified rating,5.0,Other Category
+955,Scarve For Women Off-white,1.0,289.0,verified rating,5.0,Other Category
+957,Gloves For Womens - Black,2.0,199.0,verified ratings,3.5,Other Category
+960,Men's Fashion - Men's Accessories - Scarves - Blue,1.0,249.0,verified rating,5.0,Fashion
+1001,"Earphones, Noise-isolating Stereo Headphones With Built-in Microphone And Volume Control For IPhone 7/11/12/13, Direct Without Bluetooth",1.0,319.0,verified rating,5.0,Phones & Tablets
+1007,EW-83E Hood Shade For Canon EF 17-40mm F/4L USM,1.0,229.0,verified rating,5.0,Computing
+1009,Platinum Plated Stainless Steel Silver Dark Zircon Crystals Earrings,2.0,150.0,verified ratings,4.5,Fashion
+1011,El Helal W El Negma Roma Dustbin 45 Liters Large El Helal W El Negma 24206,1.0,489.0,verified rating,5.0,Other Category
+1015,"Galaxy A52 Case, Crystal Transparent Hard PC Bumper Case With Detachable Camera Protection Cover For Samsung Galaxy A52 5G/4G",1.0,315.0,verified rating,5.0,Phones & Tablets
+1018,OPPO A94 Case Colorful Smile Soft Phone Cover,1.0,120.0,verified rating,5.0,Phones & Tablets
+1019,Koki Unique Handmade Crochet Boots - Dark Grey And Pink,10.0,110.0,verified ratings,3.8,Fashion
+1024,Stitch Girl Silicone Printed Mobile Case Compatible With Samsung Note 8,1.0,100.0,verified rating,5.0,Phones & Tablets
+1025,"Dual Adaptor Lightning To 3.5mm Audio + Lightning Charge Converter For IPhone X, 7, IPad",6.0,129.0,verified ratings,5.0,Phones & Tablets
+1028,Multicolour Silicone Printed Mobile Case Compatible With Samsung A6 Plus,1.0,110.0,verified rating,5.0,Phones & Tablets
+1030,Fogg Marco Perfume Spray 120 Ml,1.0,132.0,verified rating,5.0,Health & Beauty
+1031,"LG 32 Inch Smart LED TV, HD HDR Smart LED TV",1.0,13500.0,verified rating,5.0,Television & Audio
+1035,"X8+Plus Ultra Smart Watch,Iphone, Android- Biggest Screen 49 MM,The Highest Reselution-Band Lock-Orange",1.0,1099.0,verified rating,5.0,Phones & Tablets
+1038,Ibso Leather Watch - For Men - Black,4.0,1350.0,verified ratings,4.3,Fashion
+1039,Leather Silicone Printed Mobile Case Compatible With Samsung A50,1.0,100.0,verified rating,5.0,Phones & Tablets
+1040,"For Apple Pencil IPad 1St Generation Charging Adapter Type-C Female Converter, Type-C Female To Lighting Female",1.0,86.9,verified rating,5.0,Phones & Tablets
+1044,Replacement Memory Earpads Ear Pad Cushion For Sony,1.0,120.0,verified rating,5.0,Other Category
+1047,APC EASY UPS 1600VA.230V BATTERY BACKUP-AVR-BVX1600LI-GR,1.0,8999.0,verified rating,5.0,Television & Audio
+1048,For Apple Airpods Pro 2 2022 Case With Keychain Full-Body Rugged Military Durable Armor Black&Pink,1.0,155.0,verified rating,5.0,Phones & Tablets
+1049,Laptop Bag - Gray,1.0,280.0,verified rating,5.0,Fashion
+1052,P11 Mobile Phone Cooler Cooling Fan Game Pad Holder Bracket Fan Radiator for iPhone Huawei Xiaomi Smartphone Tablet,1.0,185.76,verified rating,5.0,Phones & Tablets
+1057,"Arctic Hunter GW00017 Waterproof Anti Theft Business Casual High Quality Messenger Bag, Black",4.0,2050.0,verified ratings,4.5,Fashion
+1058,Epson Perfection V19 Color Scanner,1.0,6949.0,verified rating,5.0,Computing
+1060,SODO MH2 BLUETOOTH WIRELESS HEADPHONE WITH NFC - BLACk,1.0,870.0,verified rating,5.0,Phones & Tablets
+1063,"Dolphin Silicone Swim Training Short Fins, Pink",2.0,839.0,verified ratings,5.0,Other Category
+1065,Fashion Men's Summer Beach Pants Running Shorts-Black,1.0,299.0,verified rating,5.0,Fashion
+1069,"Dolphin G-2200 Anti-Fog Swim Goggles With Box & Ear Plugs, Black",1.0,209.0,verified rating,5.0,Other Category
+1072,Ezviz TY2 Full HD 1080P WiFi IP Surveillance Camera,2.0,1690.0,verified ratings,5.0,Television & Audio
+1073,Mini Portable 5W Speaker Wireless Bluetooth Splash Proof Speaker With Led Light,1.0,185.0,verified rating,5.0,Television & Audio
+1074,OTG Usb Flash Drive 2TB 3pcs USB2.0 3.0 Type-c,2.0,884.25,verified ratings,2.5,Television & Audio
+1077,300Mbps 802.11 N/g/b Mini USB WiFi Wireless LAN Adapter With Antenna,12.0,250.0,verified ratings,3.5,Television & Audio
+1113,50pcs Micro Basket Filter Fit For ASNU03C Repair Kits Filter Auto Repment Parts,1.0,1442.34,verified rating,5.0,Other Category
+1117,LED Spotlight Circular With Battery And Remote Control - 3 Pcs,30.0,391.0,verified ratings,5.0,Television & Audio
+1119,For Itel P40 TPU Phone Case(Black),1.0,526.11,verified rating,5.0,Phones & Tablets
+1121,"Case For Honor Pad 8 Tablet, Luxury Shockproof Protective Case, Flip Case, Soft TPU Back Cover (Black)",7.0,485.0,verified ratings,4.6,Phones & Tablets
+1122,Ten Tech Transparent Cover With Anti-shock Corners Made Of Heat-resistant Polyurethane For Samsung Galaxy A30S / A50S / A50  Transparent,3.0,99.0,verified ratings,5.0,Phones & Tablets
+1123,Replacement Stainless Steel Band 20mm Bracelet For Samsung Galaxy Active 1/2 - 40/44mm - Silver,10.0,120.0,verified ratings,4.7,Phones & Tablets
+1124,Ten Tech Transparent Cover With Anti-shock Corners Made Of Heat-resistant Polyurethane For Realme 11 Pro Plus  Transparent,5.0,140.0,verified ratings,4.4,Phones & Tablets
+1125,For Xiaomi Mi Watch 2 Lite / Redmi Watch 2 Silcon Strap (Sand Pink ),10.0,105.0,verified ratings,3.9,Phones & Tablets
+1126,Ring Light 33 Cm For Photography And Video With Metal Stand 210 Cm,3.0,250.75,verified ratings,3.3,Other Category
+1130,Ten Tech Transparent Cover With Anti-shock Corners Made Of Heat-resistant Polyurethane For Huawei P30 Pro  Transparent,1.0,100.0,verified rating,5.0,Phones & Tablets
+1135,"Samsung A54 Full Protection Case With Visa Card Slot, Metal Ring & Slider Camera Cover",2.0,139.0,verified ratings,5.0,Phones & Tablets
+1136,Apple Watch Ultra 49mm Glass Screen Protector - Black/starlight,1.0,77.0,verified rating,5.0,Phones & Tablets
+1138,Replacement Nylon Nato Strap 20mm For Amazfit Bip 3 / Bip 3 Pro - Black,3.0,115.0,verified ratings,5.0,Other Category
+1140,TPU Phone Case For Nokia G21,5.0,125.95,verified ratings,4.4,Phones & Tablets
+1141,Electroplating Shockproof Magsafe Case For IPhone 7+ PLUS / 8+ PLUS (Transparent),1.0,99.0,verified rating,5.0,Phones & Tablets
+1142,NANLITE FS-300B LED Bi-Color Monolight,2.0,11999.0,verified ratings,4.5,Other Category
+1143,Ultra Thin PC Case And Full Tempered Glass Protection Screen For Huawei Band 6 And Honor Band 6 Black,1.0,120.0,verified rating,5.0,Phones & Tablets
+1144,120W 6A Fast Charging Cable - Zinc Alloy 3.3ft USB To IPhoneUSB Silicone,1.0,90.0,verified rating,5.0,Phones & Tablets
+1146,Magnetic Holder For Mobile Installed In The Dashboard  B1,3.0,188.0,verified ratings,5.0,Phones & Tablets
+1147,"Apple Airpods 3 Generation Case With Lock 2021, Armor Full-Body Rugged Black",8.0,190.0,verified ratings,4.1,Phones & Tablets
+1149,Samsung Galaxy Buds Pro / Buds 2 Cover TPU Anti-fall Cover Earphone Case With Keychain Black,2.0,175.0,verified ratings,4.5,Phones & Tablets
+1150,Xiaomi Redmi 13C Full Cover Glass Screen Protector - Clear,2.0,75.0,verified ratings,2.5,Phones & Tablets
+1152,Cable Net Cat6 Ethernet RJ-45 Plug - 20m,3.0,219.0,verified ratings,5.0,Television & Audio
+1153,REALME 7 PRO / REALME X7 Clear View Case BLACK,2.0,180.0,verified ratings,5.0,Phones & Tablets
+1154,Silicone Case Protect Cover Anti-scratch Sleeve Fit Oraimo FreePods 3C ENC - Blue,1.0,110.0,verified rating,5.0,Phones & Tablets
+1155,Fan Cooling USB -With 3 Speeds - LED Light- Water Spray -Timer - White,3.0,755.0,verified ratings,5.0,Health & Beauty
+1159,Wireless Magnetic Charger For Huawei Watch GT/Honor Magic/GT 2 /GT,1.0,210.0,verified rating,5.0,Phones & Tablets
+1160,Samsung Galaxy A05 Full Cover Glass Screen Protector - Clear,1.0,80.0,verified rating,5.0,Phones & Tablets
+1176,Luna Air Breathable Nail Lacquer - No. 21 - 10ml,1.0,95.0,verified rating,5.0,Other Category
+1188,Lenuo LeArmor Case for Motorola Edge 2021,1.0,154.24,verified rating,5.0,Other Category
+1194,0011 Modern Wall Sticker - 60cm,1.0,119.0,verified rating,5.0,Other Category
+1206,3D Glass Film For vivo X100 5G / X100 Pro 5G,1.0,339.12,verified rating,5.0,Other Category
+1209,Dental Implant Disease Teeth Model with Restoration Bridge Tooth for Medical Science Dental Disease Teaching Study Tool,1.0,1826.91,verified rating,5.0,Health & Beauty
+1233,TPU+PC Case For IPad Mini 6,1.0,609.0,verified rating,5.0,Other Category
+1281,SHEIN 2pack Adjustable Strap Underwire Bra Set-3508,145.0,489.99,verified ratings,4.5,Other Category
+1282,Flat Sneaker Shoes Casual For Kids - White & Light Blue,112.0,450.5,verified ratings,4.7,Fashion
+1283,Dice - Bundle Of (5) Boxers,9.0,334.99,verified ratings,4.4,Fashion
+1284,LC Waikiki Elastic Waist Baby Boy Sweatpants 2-Pack,5.0,339.0,verified ratings,4.4,Fashion
+1285,ZGTS Derma Roller Gold - Titanium - 1.0,9.0,299.0,verified ratings,4.6,Other Category
+1286,Koldair Water Dispenser 2 Tap Black Cold/Lukewarm,9.0,6350.0,verified ratings,4.3,Supermarket
+1287,Defacto Woman Regular Fit Woven Long Sleeve Blouse..,4.0,999.0,verified ratings,4.8,Appliances
+1288,Kady Sleeveless Side Slits Summer Dress - Orange,12.0,99.0,verified ratings,4.3,Fashion
+1289,LC Waikiki Crew Neck Short Sleeve Embroidered Combed Combed Men's T-Shirt,2.0,249.0,verified ratings,5.0,Fashion
+1290,Bebe New Born Baby Diapers Size 1 - 40 Pcs,25.0,124.0,verified ratings,3.7,Supermarket
+1291,Casual Sport Shoes For Men _ BlacK,5.0,289.0,verified ratings,3.4,Fashion
+1292,Mash Bean And Stainless Steel Potatoes+öTaha Bag Free,5.0,42.42,verified ratings,4.2,Fashion
+1293,Lasso Lassen Dantel Bra For Women,54.0,189.99,verified ratings,3.9,Other Category
+1294,Might Cinema Waterproof Mascara-Black,1.0,79.0,verified rating,5.0,Health & Beauty
+1295,L'Oreal Paris Makeup Rouge Signature Matte Lip Stain - 410 I Enjoy,13.0,109.0,verified ratings,4.4,Health & Beauty
+1296,Bracelets Simple Beaded Ring,12.0,29.65,verified ratings,5.0,Fashion
+1297,Cottonil - Set Of (3) Boxer Every Day,30.0,199.0,verified ratings,4.5,Fashion
+1298,Young Slimming Shirt - BLACK,24.0,144.99,verified ratings,3.6,Fashion
+1299,Martina Store Women's T-shirt Made Of Ribbed Cotton - Sky Blue,10.0,135.99,verified ratings,4.9,Fashion
+1300,Bourjois Always Fabulous 24 Hour 2-in-1 Foundation And Concealer Stick - 100 Rose Ivory,94.0,185.0,verified ratings,4.1,Health & Beauty
+1301,Bourjois Place De L'Opera 4 In 1 Platte - 01 Rose Nude Edition,41.0,269.0,verified ratings,4.7,Other Category
+1302,Sunsilk Shampoo Soft & Smooth 180ML,21.0,53.0,verified ratings,4.3,Health & Beauty
+1303,Glysolid Lotion - Classic - 500 ML,71.0,144.0,verified ratings,4.3,Health & Beauty
+1304,Gold Era 24K Gold Bar - 10 Gm,3.0,41356.92,verified ratings,5.0,Other Category
+1305,Dice - Bundle Of (3) Boxers For Men & Boys,24.0,172.0,verified ratings,4.5,Fashion
+1306,High Speed 2TB Flash Memory Stick Storage Key USB 2.0,32.0,450.0,verified ratings,3.2,Home & Furniture
+1307,Molfix Baby Diapers - Mega Pack - Junior Size 5 - 70 Pieces,12.0,429.0,verified ratings,4.3,Supermarket
+1308,Eva Honey Hair Cream 45 gm,14.0,33.5,verified ratings,4.4,Health & Beauty
+1309,Avuva Body Splash Vanilla And Coconut 253 Ml,29.0,135.99,verified ratings,4.6,Other Category
+1310,Starville Acne Prone Skin Facial Cleanser - Anti-bacterial - 200 ML,36.0,129.0,verified ratings,4.8,Other Category
+1311,OSSUM Teaser Perfume body spray for women - 120 ml,23.0,89.0,verified ratings,4.4,Health & Beauty
+1312,2 * 1 Space Tile Brush 120 Degree Damage Long Steel Handle1 Pcs.,4.0,117.81,verified ratings,4.3,Other Category
+1313,Me Now New Makeup Set Palette Eyeshadow & Highlighter - 11 Colors,13.0,99.0,verified ratings,4.5,Health & Beauty
+1314,igel Lavender -Power Gel Automatic Liquid Laundry Detergent-Front & Top Load 1KG,9.0,90.0,verified ratings,3.3,Supermarket
+1315,Tiba Fiber Pillow - 2 Pcs,864.0,149.0,verified ratings,3.7,Other Category
+1316,SHEGLAM Full Coverage Foundation Balm Sample-Warm Vanilla-9711,14.0,139.99,verified ratings,3.2,Health & Beauty
+1317,Maybelline New York The Falsies Surreal Extensions Mascara 01 Very Black,27.0,450.0,verified ratings,3.9,Health & Beauty
+1318,LC Waikiki Crew Neck Short Sleeve Girl Dress,1.0,389.0,verified rating,5.0,Fashion
+1319,LC Waikiki Crew Neck Daisy Duck Printed Short Sleeve Oversize Women's T-Shirt,11.0,219.0,verified ratings,4.6,Fashion
+1320,Taha Offer A Magic Hanger Adhesive With 6 Hook Gold Color 1 Piece,28.0,29.29,verified ratings,4.1,Other Category
+1362,Skmei Quartz Wristwatches Women Watches Dress Casual Leather Clock 1330,1.0,872.0,verified rating,5.0,Fashion
+1368,For Lenovo Tab P11 TB-J606F /Tab P11 5G Three-folding Custer Texture Smart Leather Tablet Case(Grey),1.0,634.5,verified rating,5.0,Computing
+1384,Luxury PU Leather Case For Honor Magic 5 Pro 5 Lite 5G Back Cover TPU Silicone Phone Case For Honor Magic 5 Ultimate Magic5 Pro,1.0,250.8,verified rating,5.0,Phones & Tablets
+1398,For Itel P40 TPU Phone Case(Black),1.0,526.11,verified rating,5.0,Phones & Tablets
+1443,Leather Hook Case For Airpods Pro - Black Color,2.0,109.8,verified ratings,5.0,Other Category
+1444,Storage Bag Carring Mouse Protective Cover Mice Hard Case,1.0,305.8,verified rating,5.0,Home & Furniture
+1449,Fox Pro DC Motor Treadmill - 120 Kg - 2.5HP,5.0,3900.0,verified ratings,4.2,Computing
+1453,Black 5 Feet 1.5m HDMI Male to 3 RCA Video Audio AV Cable Adapter For HDTV 1080P,1.0,386.1,verified rating,5.0,Television & Audio
+1454,"City Star Multifunctional Electric Treadmill With Electric Massage Belt City Stars Fitness And Has A Wonderful Screen And Five Gifts Cover Device + Set Of Five Pieces And A Twister Disc, Dumbbells And Oil And The Device Has A Five-year Warranty",1.0,14999.0,verified rating,5.0,Fashion
+1455,Adhesive Protection With Matt Green Letters For Russian Keyboard For,1.0,115.0,verified rating,5.0,Computing
+1459,"60m RJ45 to HDMI Network Extender, with Cable",1.0,689.04,verified rating,5.0,Television & Audio
+1468,Case Cover For A Nker Life P2i Shock Resistant Cover With Carabiner Red,1.0,115.0,verified rating,5.0,Other Category
+1470,915 Generation 2TB U Disk Memory Stick USB30 Flash Drive Mini Car U Disk External Storage Memory Portable U Disk Silver,2.0,235.44,verified ratings,5.0,Home & Furniture
+1472,Fashion Men Soccer Shoes AG High Ankle Football Boots Men Sneakers,1.0,1500.0,verified rating,5.0,Fashion
+1474,General Laptop Cable Power,9.0,65.0,verified ratings,5.0,Television & Audio
+1478,Awei A799BL Foldable Gaming Wireless Headphone - Black,1.0,1650.0,verified rating,5.0,Phones & Tablets
+1480,Genres Silicone Swimming Cap - Free Size-shoulder,1.0,119.0,verified rating,5.0,Fashion
+1521,LC Waikiki Crew Neck Regular Long Sleeve Women's Tunic.,13.0,379.0,verified ratings,4.4,Other Category
+1522,Nail Clipper - 1pcs,6.0,29.99,verified ratings,4.5,Other Category
+1523,Realme 12 Pro+ GKK 3In1 360° Full Protection Case With Camera Shield Cover - Black / Blue,2.0,165.0,verified ratings,5.0,Phones & Tablets
+1524,Bebem Natural Baby Diapers Jumbo Pack Mini Size 2 - 58 Pieces,11.0,259.0,verified ratings,3.5,Supermarket
+1525,P47 Wireless Bluetooth Headphone & Usb+aux Cable Color-white/black,139.0,211.5,verified ratings,5.0,Phones & Tablets
+1526,Bracelets Necklace One Layer Stars For Woman,14.0,39.65,verified ratings,5.0,Fashion
+1528,Taha Offer Hanger For Bathroom And Kitchen 6-hook 1 Piece,33.0,19.97,verified ratings,3.1,Appliances
+1529,Taha Offer Food Preservative Bags -13*25 Cm - 50 PCs,1.0,15.67,verified rating,5.0,Fashion
+1530,Taha Offer Set Of Bases For Installing The Washing Machine Bag 4 Pcs,26.0,29.99,verified ratings,3.6,Fashion
+1531,Women Belt Black,8.0,199.0,verified ratings,4.9,Fashion
+1532,"Latex Examination Gloves - 100 Pcs- S,M,L,Xl Size - White",18.0,400.0,verified ratings,4.8,Other Category
+1533,City Cappuccino Hand Mixer HMA 101,14.0,365.0,verified ratings,4.6,Appliances
+1534,Young Slimming Shirt - White,13.0,144.99,verified ratings,3.4,Fashion
+1535,Reusable Stainless Steel Portable Coffee Filter - 1pcs,41.0,139.0,verified ratings,4.6,Supermarket
+1536,Summer Pajamas For Girls_Multicoloure,7.0,199.0,verified ratings,4.1,Other Category
+1537,Taha Offer Set Of Bases For Installing The Washing Machine Bag 4 Pcs,29.0,29.99,verified ratings,3.8,Fashion
+1539,"Tornado Wall Fan 16 Inch, 4 Blades, Black TWF-16",18.0,1579.0,verified ratings,4.1,Television & Audio
+1540,Lux Moisturising Body Wash Silk Gardenia For All Skin Types 250ML,29.0,52.0,verified ratings,4.2,Gaming
+1661,Glysolid Soft Hand Cream  200ml,85.0,57.0,verified ratings,4.3,Health & Beauty
+1662,Vebix Deodrant Cream Maystic - 25 Ml,87.0,55.0,verified ratings,4.4,Health & Beauty
+1663,Dice - Bundle Of (3) Boxers For Men & Boys,17.0,172.0,verified ratings,4.8,Fashion
+1664,Private Extra -Thin Feminine Napkin - Normal Size - 18 Pads,60.0,73.0,verified ratings,4.6,Health & Beauty
+1665,A Light And Practical Elastic Cap For Protection From The Sun,27.0,160.0,verified ratings,4.7,Fashion
+1666,Brix Lavender glass cleaner - 500ml,33.0,26.95,verified ratings,3.9,Supermarket
+1667,L'Oreal Paris Prodigy Hair Color - 7.1 Silver / Ash Blonde,110.0,297.0,verified ratings,4.1,Health & Beauty
+1668,Defacto Man Relax Fit W/O Hoodie Long Sleeve Denim Jacket,1.0,1699.0,verified rating,5.0,Fashion
+1669,Defacto Woman Knitted Jogger Fit Trousers...,23.0,599.0,verified ratings,4.8,Fashion
+1670,Professional Hair Clipper Metal Body - Gold,148.0,196.02,verified ratings,4.1,Health & Beauty
+1671,Defacto Woman Regular Fit Shirt Neck Woven Long Sleeve Shirt,9.0,629.0,verified ratings,4.6,Appliances
+1672,Bobai Sunscreen Tinted Cream For All Skin & Children's Skin 60 Gm,21.0,124.0,verified ratings,4.5,Health & Beauty
+1673,LC Waikiki Crew Neck Straight Short Sleeve Oversize Women's T-Shirt,5.0,169.0,verified ratings,4.6,Fashion
+1674,Trio Pro Cool Roll On Deodorant For Men - 75 ml,13.0,38.0,verified ratings,3.2,Health & Beauty
+1675,LC Waikiki Crew Neck Printed Short Sleeve Women's T-Shirt,11.0,179.0,verified ratings,4.5,Fashion
+1676,"Luna Taha Offer Glycerin Soap, Unscented, 115 G 1 Piece",8.0,39.99,verified ratings,4.6,Other Category
+1677,ADIDAS DSZ57 Arkd3 Backpack- Grey,4.0,1169.35,verified ratings,4.5,Fashion
+1678,Milk - Set Of (3) Underwear Bikini Printed - For Women,15.0,169.0,verified ratings,3.5,Fashion
+1679,Fridal Fridal Lemon Multipurpose Freshener - 1 L,39.0,36.0,verified ratings,4.2,Other Category
+1680,Dice - Bundle Of (5) Boxers,32.0,334.99,verified ratings,4.3,Fashion
+1681,L'Oreal Paris Prodigy Ammonia Free Hair Color - 4 Brown,83.0,247.75,verified ratings,4.2,Health & Beauty
+1682,Fogg FINE BAY BREEZE Perfume Body Spray - 120ml,45.0,89.0,verified ratings,4.5,Health & Beauty
+1683,Kemei KM-5021- Rechargeable Trimmer & Clipper,270.0,369.0,verified ratings,4.2,Other Category
+1684,Defacto Woman 90'S Wide Leg Denim Trousers.,8.0,1699.0,verified ratings,4.4,Fashion
+1685,Kesh King Anti-Hair Fall Conditioner - 80ml,85.0,75.0,verified ratings,4.2,Health & Beauty
+1686,Eva Collagen Makeup Remover For Eyes & Lips - 150 Ml,106.0,199.0,verified ratings,4.6,Health & Beauty
+1687,Martina Store Women's T-shirt Made Of Ribbed Cotton - Mint Green,55.0,127.49,verified ratings,4.2,Fashion
+1688,"Activ Pack Of 4 Self Pattern Ankel Socks - Black, White, Navy Blue & Heather Grey",40.0,169.0,verified ratings,4.6,Other Category
+1689,Care & More Micellar Shower Gel Raspberry & Rose Water - 500 Ml,6.0,41.0,verified ratings,4.3,Supermarket
+1690,LC Waikiki Crew Neck Printed Long Sleeve Baby Boy Sweatshirt And Sweatpants 2-Pack Set,4.0,379.0,verified ratings,4.5,Fashion
+1691,Thermos Steel Vacuum Flask 1 Pcs,11.0,346.36,verified ratings,4.8,Home & Furniture
+1692,ADIDAS MAX86 Running Fortarun 2.0 Shoes Kids- Black,12.0,2449.3,verified ratings,5.0,Fashion
+1693,L'Oreal Paris Elvive Extraordinary Oil Dry Hair Conditioner  360ml,28.0,149.0,verified ratings,4.2,Health & Beauty
+1694,Maxell Magic Floor Cleaner - Crawling Insects Repellent - 1Liter,71.0,51.0,verified ratings,5.0,Supermarket
+1695,Martina Store Women's T-shirt Made Of Ribbed Cotton - Violet,15.0,135.99,verified ratings,4.8,Fashion
+1696,Dice - Set Of (6) Girl's Brief Undies,48.0,189.0,verified ratings,4.6,Other Category
+1697,Desert Men's Stylish Casual Lace-up Leather Sneakers,118.0,279.0,verified ratings,3.6,Fashion
+1698,Bundle Of (6) - Ankle Socks - High Quality Creative,401.0,55.0,verified ratings,3.7,Other Category
+1699,Fogg Perfume Spray Pocket - Dynamic - 17 ML,73.0,29.0,verified ratings,4.4,Health & Beauty
+1700,Mesery Cotton Spaghetti Strap With Dantel Lace,11.0,77.0,verified ratings,4.5,Other Category
+1821,Cybele Gel Lip Liner - No. 01 Old Pink,14.0,171.0,verified ratings,4.4,Other Category
+1822,Slippers For Unisex -,13.0,89.0,verified ratings,5.0,Fashion
+1823,Mi Redmi Smart Watch 3 Active - Bluetooth® Phone Call - Black,32.0,2214.5,verified ratings,4.2,Phones & Tablets
+1824,Ricci Long Satin Dress For Woman,26.0,449.0,verified ratings,4.3,Fashion
+1825,100Pcs Air Fryer Parchment Paper Liners Non-Stick Disposable,19.0,96.99,verified ratings,3.8,Appliances
+1826,American Eagle Go Big Oversized Shirt,12.0,1650.0,verified ratings,5.0,Fashion
+1827,ADIDAS DK502 Motion Badge Of Sport Backpack- Purple,13.0,1539.3,verified ratings,4.2,Fashion
+1829,Diadora Nitro - 11452 Men Running Shoe Men - Black,20.0,1183.05,verified ratings,4.2,Fashion
+1830,Johnson's Daily Essentials Moisturising Facial Cleansing Wipes - 25 Pack,62.0,58.0,verified ratings,4.5,Supermarket
+1831,Dice - Set OF (6) Sleeveless - Undershirt - For Men,5.0,494.0,verified ratings,3.8,Fashion
+1832,Martina Store Women's T-shirt Made Of Ribbed Cotton - Black,22.0,127.49,verified ratings,4.5,Fashion
+1834,Very Elegant Casual Dress,18.0,350.0,verified ratings,3.8,Fashion
+1835,Taha Offer Electronic Counter Digital Rosary 1 Piece,14.0,19.59,verified ratings,4.3,Other Category
+1836,Dice Set Of (3) Boxers - For Men And Boys,148.0,154.0,verified ratings,4.5,Fashion
+1837,Samsung 25W PD Adapter USB-C - White + Desha Store Bag,69.0,449.0,verified ratings,4.5,Phones & Tablets
+1838,Desert Men's Stylish Casual Lace-up Leather Sneakers,24.0,259.0,verified ratings,3.7,Fashion
+1840,Sokany High Quality Sokany 3378 Handheld Vacuum Cleaner 2000W,21.0,2375.01,verified ratings,5.0,Home & Furniture
+1841,Taha Offer Smile Nail Clippers 1 Piece,11.0,19.99,verified ratings,3.5,Other Category
+1842,Caesar MENS Printed Printed Swim Short,8.0,125.0,verified ratings,3.6,Other Category
+1843,Bebe XL Baby Diapers Size 5 - 40 Pcs,16.0,174.0,verified ratings,3.3,Supermarket
+1844,Body Massage Gloves And Dead Skin Cell Removal 2 Piece Set,23.0,74.0,verified ratings,4.6,Other Category
+1845,Dove Oil Replacement Intensive Repair 300ML,149.0,111.0,verified ratings,4.2,Other Category
+1846,Lime Sunscreen Lotion SPF50 50 Ml.,33.0,80.1,verified ratings,3.6,Health & Beauty
+1847,Air Walk Printed Pattern Short Sleeves T-Shirt - Heather Gray,5.0,99.0,verified ratings,5.0,Fashion
+1848,Frida Sensation Arabesque 460 ml,77.0,58.0,verified ratings,4.6,Other Category
+1849,Vebix Deodrant Cream Blue Active - 25 Ml,67.0,57.0,verified ratings,4.3,Health & Beauty
+1850,"OPPO Reno 12F - 6.6"" 256GB/12GB Dual SIM 5G Phone Mobile - Olive Green",2.0,13450.0,verified ratings,5.0,Phones & Tablets
+1851,Diva Liquid Hand Wash  Ultra Guard  500ml,45.0,44.0,verified ratings,4.1,Other Category
+1852,Eva Face Cream 18 gm,50.0,24.5,verified ratings,3.8,Health & Beauty
+1853,SHEIN Geo Decor Bracelet & Ring-7152,95.0,89.99,verified ratings,3.6,Fashion
+1854,LED Warm Light Strip,17.0,75.0,verified ratings,4.8,Other Category
+1855,Argento Clear Facial Cleanser For Oily And Mixed Skin - 200 Ml,72.0,134.0,verified ratings,4.4,Other Category
+1856,Brush Face Scrub To Remove Make-up For Skin Care,53.0,29.99,verified ratings,3.7,Health & Beauty
+1857,Rexona Women Advanced Protection 72H+ Antiperspirant Deodorant Powder Dry Roll On- 50ML,25.0,62.0,verified ratings,4.9,Health & Beauty
+1858,Cleopatra Shae Butter Hair Shampoo 500 Ml,26.0,59.99,verified ratings,3.9,Health & Beauty
+1859,Luna Emollient Bag Bundle Skin Care Set Of 4 Pcs,64.0,144.0,verified ratings,4.2,Health & Beauty
+1860,Fiancee Almond Nourishing Hair Oil - 175 ml,23.0,36.0,verified ratings,4.6,Health & Beauty
+1862,Laptop Mouse Desktop PC Bluetooth-compatible Mouse Mint Green,1.0,269.46,verified rating,5.0,Computing
+1864,Anti-Shock Back Cover For IPhone 12 Pro (6.1) - Transparent,2.0,48.48,verified ratings,5.0,Phones & Tablets
+1866,Ibso 3822L-Brown Silver Genuine Leather Unisex Casual Watch,1.0,1250.0,verified rating,5.0,Fashion
+1879,Cars Disassembly Play Set With Screwdriver And Wrench - Disassembly World 666-4,1.0,255.0,verified rating,5.0,Other Category
+1887,"Tablet For Teaching Children To Write And Draw + 8.5"" Inch Pen - Red",8.0,90.0,verified ratings,3.4,Other Category
+1891,JOYROOM Jr - Ok3 - Car Mobile Holder - Black,6.0,205.0,verified ratings,4.7,Phones & Tablets
+1899,Elegant Tennis Bracelet - 925 Sterling Silver,2.0,1500.0,verified ratings,5.0,Fashion
+1905,Car Dent Repair Tool,1.0,555.0,verified rating,5.0,Other Category
+1908,Realme 5 Pro Case Astronaut Soft TPU Phone Back Cover,1.0,120.0,verified rating,5.0,Phones & Tablets
+1909,Soft Shockproof Protection Camera Cover For Vivo V27 5g,1.0,70.0,verified rating,5.0,Television & Audio
+1917,Mobile Case For Samsung S 21 PLUS,1.0,112.0,verified rating,5.0,Phones & Tablets
+1920,Black Carbon Fiber Start Stop Engine Button Cover,2.0,250.0,verified ratings,5.0,Other Category
+1928,Ibso Leather Watch - For Men - Brown,6.0,1450.0,verified ratings,3.8,Fashion
+1934,Receiver Holder - 33x16x2.5 Cm,9.0,555.0,verified ratings,3.4,Television & Audio
+1981,Caesar Boys Stripped Sportive Tank Top,24.0,67.0,verified ratings,3.3,Other Category
+1982,Cap Kink Fashion Imported Free Size,46.0,99.0,verified ratings,3.8,Fashion
+1983,Maybelline New York Brow Fast Sculpt Eyebrow Mascara - 04 Medium Brown,114.0,300.0,verified ratings,4.5,Health & Beauty
+1984,Pearl Elegant Necklace For Women,59.0,24.65,verified ratings,4.2,Other Category
+1985,Roto Liquid Ball Pen - 12 Pcs,20.0,61.5,verified ratings,4.4,Other Category
+1986,Clorox Clorox Disinfecting Wipes Fresh Scent 20 Wipes,69.0,23.5,verified ratings,4.5,Supermarket
+1987,Eva cream with glycerin 50 gm,88.0,29.0,verified ratings,4.3,Health & Beauty
+1988,Glitter Women Summer Slippers - Black,10.0,262.0,verified ratings,5.0,Fashion
+1989,Clorox Clorox Powder Ultra Stain Remover 250gm,77.0,57.5,verified ratings,4.6,Health & Beauty
+1990,BLACK+DECKER Black & Decker Digital Electric Air Fryer -12 Liter - Silver - AOF100,108.0,5789.0,verified ratings,4.2,Appliances
+1991,"SHEGLAM Lipstick Set,6Pcs Mini Speaker Design Lipstick-1122",32.0,399.99,verified ratings,4.5,Health & Beauty
+1992,dermactive ACTI-WHITE Eye Contour 15 ML.,21.0,189.0,verified ratings,3.9,Other Category
+1993,L'Oreal Paris Excellence Crème Hair Color - 8.1 Light Ash Blonde,55.0,248.0,verified ratings,4.1,Health & Beauty
+1994,Samsung Vacuum Cleaner VCC4540S36EG - 1800 Watt - Blue,7.0,3999.0,verified ratings,5.0,Phones & Tablets
+1995,American Eagle AE Plaid Poplin Button-Up Shirt,8.0,2400.27,verified ratings,4.3,Fashion
+1996,ADIDAS LWR96 Duramo 10 K Running Shoes For Kids Boys And Girls -Core Black,14.0,2099.3,verified ratings,4.1,Fashion
+1997,Fluoro Kids Sparkle Gel Toothpaste With Strawberry - 50gm,26.0,26.0,verified ratings,4.5,Computing
+1998,Velvet COTTON SQUARE PADS SOFT&GENTLE 160PCS,25.0,65.0,verified ratings,4.7,Other Category
+1999,Defacto Woman Regular Fit Woven Trousers,6.0,699.0,verified ratings,5.0,Appliances
+2000,Taha Offer Tissue Box Cover 1 Piece,34.0,34.29,verified ratings,3.7,Other Category
+2001,Jamaky Sandwich Maker - 1000 Watt,51.0,655.0,verified ratings,4.3,Other Category
+2002,Tresemme Nourish & Relenish Hair Shampoo - 600 Ml,462.0,169.0,verified ratings,4.5,Health & Beauty
+2003,Stainless Steel Tea Strainer Set - 3 Pcs,37.0,49.99,verified ratings,3.8,Fashion
+2004,Mesery Bundle Of Six Solid Slip On Underwear,2034.0,191.0,verified ratings,4.4,Fashion
+2006,L'Oreal Paris Prodigy Ammonia Free Hair Color - 3.0 Dark Brown,77.0,247.75,verified ratings,4.5,Health & Beauty
+2007,American Eagle AE Everyday Plaid Button-Up Shirt,7.0,600.0,verified ratings,4.3,Fashion
+2008,SHEGLAM Glow Bloom Liquid Highlighter-Tea Cake-9587,32.0,289.99,verified ratings,4.8,Other Category
+2009,Dice - Set Of (2) 100% Cotton Half Sleeve - White,11.0,175.0,verified ratings,4.5,Other Category
+2010,"Silicone Cushioned Syrup For Cracked Feet For Whitening Feet And Moisturizing Heels. ,(Color May Vary)",181.0,117.81,verified ratings,4.2,Health & Beauty
+2011,Eva Skin Clinic Collagen Sheet Mask ( 3 sheets),34.0,85.5,verified ratings,4.3,Other Category
+2012,Penduline Hair Cream For Babies - 150ml,22.0,94.0,verified ratings,4.3,Health & Beauty
+2013,Desert Sportive Lace-Up Sneakers For Women,11.0,279.0,verified ratings,4.3,Fashion
+2014,Slippers For Women - Black,28.0,119.0,verified ratings,3.2,Fashion
+2015,Glysolid Shower and Care  Wild Rose Milk  300ml,89.0,37.15,verified ratings,4.4,Supermarket
+2016,"Dry Post Super Absorbent Postpartum Pads, 2 Pcs Offer 20 Pads",48.0,108.0,verified ratings,4.7,Other Category
+2017,Roto Liquid Ball Pen - Pack Of 36 - Blue Black Red,28.0,144.85,verified ratings,4.7,Other Category
+2018,American Eagle Boyfriend Jogger,6.0,600.0,verified ratings,5.0,Fashion
+2019,Malika - (6) Underwear Brief Basic With Underwire Cotton,109.0,189.0,verified ratings,5.0,Fashion
+2020,Defacto Woman Fitted Crew Neck Knitted Short Sleeve T-Shirt.,2.0,599.0,verified ratings,5.0,Fashion
